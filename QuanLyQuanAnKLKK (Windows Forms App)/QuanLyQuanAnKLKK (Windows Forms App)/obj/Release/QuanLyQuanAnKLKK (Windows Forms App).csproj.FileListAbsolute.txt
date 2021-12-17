@@ -1,0 +1,112 @@
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\QuanLyQuanAnKLKK (Windows Forms App).exe.config
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\QuanLyQuanAnKLKK (Windows Forms App).exe
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\QuanLyQuanAnKLKK (Windows Forms App).pdb
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK (Windows Forms App).csproj.AssemblyReference.cache
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK__Windows_Forms_App_.FormAdmin.resources
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK__Windows_Forms_App_.FormLogin.resources
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK__Windows_Forms_App_.FormManager.resources
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK__Windows_Forms_App_.FormChangeAccountInfo.resources
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK__Windows_Forms_App_.Properties.Resources.resources
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK (Windows Forms App).csproj.GenerateResource.cache
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK (Windows Forms App).csproj.CoreCompileInputs.cache
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK (Windows Forms App).exe
+E:\Study\Năm 2\OOP\Đồ án\OOP-Project\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK (Windows Forms App).pdb
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\QuanLyQuanAnKLKK (Windows Forms App).exe.config
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\QuanLyQuanAnKLKK (Windows Forms App).exe
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\QuanLyQuanAnKLKK (Windows Forms App).pdb
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.ReportViewer.WebForms.DLL
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\EnvDTE.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.Build.Framework.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\stdole.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\EnvDTE80.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.Build.Tasks.Core.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.Data.Services.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\VSLangProj.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.Data.Core.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\VSLangProj80.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.MSXML.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.Build.Utilities.Core.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\VSLangProj2.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK (Windows Forms App).csproj.AssemblyReference.cache
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK (Windows Forms App).exe.config
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK__Windows_Forms_App_.FormAdmin.resources
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK__Windows_Forms_App_.FormLogin.resources
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK__Windows_Forms_App_.FormManager.resources
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK__Windows_Forms_App_.FormChangeAccountInfo.resources
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK__Windows_Forms_App_.FormPrint.resources
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK__Windows_Forms_App_.Properties.Resources.resources
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK (Windows Forms App).csproj.GenerateResource.cache
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\RdlCompile.cache
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\RdlCompile.compiled
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK (Windows Forms App).csproj.CoreCompileInputs.cache
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK (Windows Forms App).csproj.CopyComplete
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK (Windows Forms App).exe
+C:\Project\Project-OOP-Report\QuanLyQuanAnKLKK (Windows Forms App)\QuanLyQuanAnKLKK (Windows Forms App)\obj\Release\QuanLyQuanAnKLKK (Windows Forms App).pdb
